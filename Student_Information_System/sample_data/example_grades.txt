@@ -1,0 +1,2 @@
+{"enrollment_id": "ENR0001", "prelim": 90.0, "midterm": 84.0, "final_exam": 88.0, "average": 87.4, "remarks": "Passed", "updated_at": "2026-11-10 15:05:00"}
+{"enrollment_id": "ENR0002", "prelim": 72.0, "midterm": 70.0, "final_exam": 74.0, "average": 72.2, "remarks": "Failed", "updated_at": "2026-11-10 15:10:00"}

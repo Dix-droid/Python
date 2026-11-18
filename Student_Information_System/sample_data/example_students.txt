@@ -1,0 +1,2 @@
+{"student_id": "STU0001", "full_name": "Alex Rivera", "program": "BSIT", "year_level": 1, "email": "alex.rivera@example.edu", "status": "Active", "created_at": "2026-11-01 09:00:00"}
+{"student_id": "STU0002", "full_name": "Jamie Santos", "program": "BSCS", "year_level": 2, "email": "jamie.santos@example.edu", "status": "Active", "created_at": "2026-11-02 10:30:00"}
